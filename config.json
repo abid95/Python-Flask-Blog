@@ -1,0 +1,18 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/hotcoding",
+    "prod_uri": "mysql://root:@localhost/hotcoding",
+    "fb_url":"https://facebok.com/hotcoding",
+    "tw_url":"https://twitter.com/hotcoding",
+    "gh_url":"https://github.com/hotcoding",
+    "gmail-user":"your email here",
+    "gmail-password":"your password here",
+    "about_text":"Hello i am Abid Iqbal a software engineer from university of bradford UK. I have major interest in web development using python and its frameworks like Flask and Django. Here on my blog, you will find articles related to computer programming and specifically related to web development using python.",
+    "no_of_posts":2,
+    "login_image":"login.svg",
+    "admin_user":"abid",
+    "admin_password":"12345",
+    "upload_location":"F:\\Video Tutorials\\Flask\\code\\blog website\\static"
+  }
+}
